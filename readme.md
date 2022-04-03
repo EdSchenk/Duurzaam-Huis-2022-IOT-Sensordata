@@ -16,4 +16,7 @@ Stap 3
 - download de HTML code
 - pas in het Javascript 'mijnDataURL' aan.
 - 'mijnDataURL' krijg jij als je bent ingelogd op https://data.softwaredeveloper.amsterdam/
-- 
+
+Stap 4
+- probeer met getdata.html de sensor data van jouw nodeMCU uit te lezen
+- gebruikt XAMPP of de live server van Visual Studio
